@@ -9,8 +9,10 @@ The parts you are going to need are:
 
 1. Arduino Uno
 2. Arduino Motor Shield
-4. Magician Chassis from [SparkFun](https://www.sparkfun.com/products/retired/10825)
-5. Pololu [Infrared Sensor](https://shop.pimoroni.com/products/pololu-carrier-with-sharp-gp2y0d805z0f-digital-distance-sensor-5cm?variant=31546927841363&currency=GBP&utm_source=google&utm_medium=cpc&utm_campaign=google+shopping?utm_source=google&utm_medium=surfaces&utm_campaign=shopping&gclid=CjwKCAiAm-2BBhANEiwAe7eyFO7bK1mOrWGd_Cqj9JogPAQnLsCPM71dlVHjZsbjda6yJfE5k2bLcRoCz2UQAvD_BwE)
+<img src="arduino_uno_arduino_motor_shield.jpg"/>
+
+3. Magician Chassis from [SparkFun](https://www.sparkfun.com/products/retired/10825)
+4. Pololu [Infrared Sensor](https://shop.pimoroni.com/products/pololu-carrier-with-sharp-gp2y0d805z0f-digital-distance-sensor-5cm?variant=31546927841363&currency=GBP&utm_source=google&utm_medium=cpc&utm_campaign=google+shopping?utm_source=google&utm_medium=surfaces&utm_campaign=shopping&gclid=CjwKCAiAm-2BBhANEiwAe7eyFO7bK1mOrWGd_Cqj9JogPAQnLsCPM71dlVHjZsbjda6yJfE5k2bLcRoCz2UQAvD_BwE)
 
 ## Building the Magician Chassis
 You should received 14 parts to assemble the Magician Chassis. Follow these [instructions](http://cdn.sparkfun.com/datasheets/Robotics/MagicianChassisInst.pdf) to build your magician chassis.
